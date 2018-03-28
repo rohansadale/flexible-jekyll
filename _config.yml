@@ -10,10 +10,10 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Rohan Sadale
-author-img: david-freeman.jpg # add your photo
+author-img: rohan.jpg # add your photo
 about-author: I am a Software Engineer. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
-social-facebook: rohansadale# add your Facebook handle
+social-facebook: rohansadale # add your Facebook handle
 social-github: rohansadale # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: rohansadale@gmail.com# add your Email address
